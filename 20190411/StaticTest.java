@@ -1,0 +1,9 @@
+package com.ztnctc.www;
+
+public class StaticTest {
+
+	static String name = "¹þÊ¿Ææ";
+	public StaticTest() {
+		
+	}
+}
